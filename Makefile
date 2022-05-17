@@ -1,7 +1,5 @@
 
-BDFS := ctrld-fixed-16r.bdf ctrld-fixed-16b.bdf ctrld-fixed-16r-i.bdf ctrld-fixed-16b-i.bdf
-BDFS += ctrld-fixed-13r.bdf ctrld-fixed-13b.bdf ctrld-fixed-13r-i.bdf ctrld-fixed-13b-i.bdf
-BDFS += ctrld-fixed-10r.bdf ctrld-fixed-10b.bdf
+BDFS := ctrlz-fixed-16r.bdf ctrlz-fixed-16b.bdf ctrlz-fixed-16r-i.bdf ctrlz-fixed-16b-i.bdf
 
 PCFS := ${BDFS:.bdf=.pcf}
 
