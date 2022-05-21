@@ -1,5 +1,7 @@
 
 BDFS := ctrlz-fixed-16r.bdf ctrlz-fixed-16b.bdf ctrlz-fixed-16r-i.bdf ctrlz-fixed-16b-i.bdf
+BDFS += ctrlz-fixed-13r.bdf ctrlz-fixed-13b.bdf ctrlz-fixed-13r-i.bdf ctrlz-fixed-13b-i.bdf
+BDFS += ctrlz-fixed-10r.bdf ctrlz-fixed-10b.bdf
 
 PCFS := ${BDFS:.bdf=.pcf}
 
